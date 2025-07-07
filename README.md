@@ -40,3 +40,6 @@ TaskMaster is a simple desktop Task Management application built with **C#**, **
    ```bash
    git clone https://github.com/Emanuelj2/TaskMaster.git
    cd TaskMaster
+
+### Image of Project
+![Screenshot 2025-07-07 130747](https://github.com/user-attachments/assets/e38e6c89-72fd-428e-8bc9-d5f31c6494e5)
